@@ -1,3 +1,26 @@
-*
-.*
-!/.gitignore
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+
+# Large datasets
+.Data_Collection/phrase_extraction/corpus_raw/
+.Data_Collection/factcheck_claims_final.csv
+
+# Generated files
+article_raw.html
+*.xlsx
+*.json
