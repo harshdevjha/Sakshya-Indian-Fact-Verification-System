@@ -24,3 +24,4 @@ env/
 article_raw.html
 *.xlsx
 *.json
+*.txt
