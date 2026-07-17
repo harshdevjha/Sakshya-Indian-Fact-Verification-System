@@ -1,7 +1,7 @@
 # Sakshya — Indian Fact Verification System
 
 Sakshya is a data collection framework for building a multilingual Indic
-fact-checking dataset covering **Hindi, Gujarati, Marathi, and English**.
+fact-checking dataset covering **Hindi, Gujarati and Marathi**.
 The end goal is a claim-verification dataset that isn't skewed toward
 English/Hindi the way most existing Indic misinformation datasets are —
 Gujarati and Marathi are first-class targets here, not an afterthought.
