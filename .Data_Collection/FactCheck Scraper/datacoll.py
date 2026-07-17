@@ -1,3 +1,5 @@
+## First code to fetch data from Google Fact Check API and save it to a CSV file.
+
 import requests
 import pandas as pd
 import time
