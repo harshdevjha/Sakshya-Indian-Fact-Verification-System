@@ -42,13 +42,12 @@ Sakshya-Indian-Fact-Verification-System/
 ├── README.md
 ├── .gitignore
 └── .Data_Collection/
-    ├── filter_dataset_final.csv
     ├── FactCheck_Scraper/
     │   ├── factcheck_scraper.py
     │   ├── datacoll.py                      (legacy duplicate — see notes)
     │   ├── data_filter.py
     │   ├── filter.ipynb
-    │   ├── factcheck_claims_final.csv        (raw scraper output — ⚠ see Known Issues)
+    │   ├── factcheck_claims_final.csv        
     │   ├── hindi_claims(1).csv
     │   ├── gujarati_claims.csv
     │   ├── marathi_claims.csv
