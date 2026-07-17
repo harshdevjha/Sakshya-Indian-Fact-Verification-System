@@ -25,3 +25,5 @@ article_raw.html
 *.xlsx
 *.json
 *.txt
+
+.D:\dev\ml\indic_factcheck_framework\Project\.Data_Collection\FactCheck_Scraper\factcheck_claims_final.csv
